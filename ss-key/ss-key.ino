@@ -1,5 +1,6 @@
 /*
   XIAO USB Keyboard.example.
+  https://junkhack.gpl.jp/2021/03/01/make-mac-sskey-xiao/
 */
 
 // https://github.com/cyborg5/TinyUSB_Mouse_and_Keyboard
